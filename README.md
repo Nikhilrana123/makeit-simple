@@ -1,4 +1,4 @@
 # makeit-simple
 This is my second git repository.
 <br>
-Author - Nikhil Rana
+Author - Nikhil (make it simple)
